@@ -1,7 +1,5 @@
 # TOP-10-Music-Recommendation
 
-# Images of the deployment in developer.Spotify
-
 <img width="807" alt="Screenshot 2023-10-12 194640" src="https://github.com/PavanRaju7/TOP-10-Music-Recommendation/assets/137611634/c6243725-866b-49da-ab2b-833f0f7c60c9">
 
 
